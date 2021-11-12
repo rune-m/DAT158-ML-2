@@ -31,7 +31,7 @@ To run the project you need:
 
 Run server:
 ```
-$ python [filename]
+$ git clone https://github.com/rune-m/DAT158-ML-2
 ```
 
 ## Video
