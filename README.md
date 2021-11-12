@@ -32,6 +32,8 @@ To run the project you need:
 Run server:
 ```
 $ git clone https://github.com/rune-m/DAT158-ML-2
+$ cd destination/DAT158-ML-2/flask/app
+$ python app.py
 ```
 
 ## Video
