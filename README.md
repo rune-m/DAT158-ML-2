@@ -5,6 +5,7 @@
 - [General info](#general-info)
 - [Technologies](#technologies)
 - [Setup](#setup)
+- [Video](#video)
 
 ## General info
 
@@ -23,3 +24,6 @@ Run server:
 ```
 $ python [filename]
 ```
+
+## Video
+![](https://github.com/rune-m/DAT158-ML-2/blob/main/screen-capture%20(1).gif)
