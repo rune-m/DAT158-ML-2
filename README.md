@@ -36,5 +36,8 @@ $ cd destination/DAT158-ML-2/flask/app
 $ python app.py
 ```
 
+![](https://github.com/rune-m/DAT158-ML-2/blob/main/download-and-run-app.gif)
+
+
 ## Video
 ![](https://github.com/rune-m/DAT158-ML-2/blob/main/screen-capture%20(1).gif)
