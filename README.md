@@ -20,6 +20,15 @@ Project is created with:
 
 ## Setup
 
+To run the project you need:
+
+- Python
+- scikit-learn
+- numpy
+- Flask
+- numpy
+- pandas
+
 Run server:
 ```
 $ python [filename]
